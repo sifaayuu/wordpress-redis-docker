@@ -1,0 +1,5 @@
+"mysql_data/" 
+"mysql_data/*.sock" 
+
+"mysql_data/mysql.sock" 
+"mysql_data/*.sock" 
