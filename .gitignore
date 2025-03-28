@@ -1,10 +1,19 @@
-# Ignore MySQL data files
-mysql_data/
-mysql_data/*.sock
-mysql_data/mysql.sock
+<<<<<<< HEAD
+"mysql_data/" 
+"mysql_data/*.sock" 
 
-# Ignore Node.js dependencies
-node_modules/
+"mysql_data/mysql.sock" 
+"mysql_data/*.sock" 
+=======
+"mysql_data/" 
+"mysql_data/*.sock" 
 
-# Ignore environment files
-.env
+"mysql_data/mysql.sock" 
+"mysql_data/*.sock" 
+"mysql_data/mysql.sock" 
+"node_modules/" 
+".env" 
+"mysql_data/" 
+"mysql_data/" 
+"mysql_data/" 
+>>>>>>> ab57923 (Menambahkan .gitignore untuk mengabaikan mysql_data)
