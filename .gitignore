@@ -1,5 +1,10 @@
-"mysql_data/" 
-"mysql_data/*.sock" 
+# Ignore MySQL data files
+mysql_data/
+mysql_data/*.sock
+mysql_data/mysql.sock
 
-"mysql_data/mysql.sock" 
-"mysql_data/*.sock" 
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore environment files
+.env
